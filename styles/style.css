@@ -263,7 +263,7 @@ z
 
 
     .apresentacao{
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
 
     .apresentacao__conteudo{
@@ -279,7 +279,7 @@ z
     }
 
      .apresentacao__imagem__imagens{
-            width: 100%;
+            width: auto%;
         }
    
 
