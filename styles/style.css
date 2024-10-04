@@ -208,6 +208,9 @@ z
         align-items: center;
         gap: 0%;
         }
+     .apresentacao__imagem__imagens{
+            width: 70%;
+        }
     }
 
     @media(max-width: 600px) {
@@ -235,6 +238,10 @@ z
             justify-content: center;
             align-items: center;
             gap: 0%;
+        }
+
+         .apresentacao__imagem__imagens{
+            width: 70%;
         }
        
 
@@ -270,6 +277,10 @@ z
         align-items: center;
         gap: 0%;
     }
+
+     .apresentacao__imagem__imagens{
+            width: 70%;
+        }
    
 
 }
