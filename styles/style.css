@@ -167,7 +167,7 @@ body {
     }
 
     .apresentacao{
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
 
     .apresentacao__conteudo{
@@ -194,7 +194,7 @@ body {
     }
 z
     .apresentacao{
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
 
     .apresentacao__conteudo{
@@ -225,7 +225,7 @@ z
         }
     
         .apresentacao{
-            flex-direction: column-reverse;
+            flex-direction: column;
         }
 
         .apresentacao__conteudo{
