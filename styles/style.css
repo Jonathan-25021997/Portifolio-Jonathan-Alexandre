@@ -178,6 +178,10 @@ body {
     .apresentacao__links__navegacao {
         font-size: 1rem;
     }
+    
+    .apresentacao__imagem__imagens{
+            width: 70vw;
+        }
 
 }
 
@@ -192,7 +196,7 @@ body {
         justify-content: center;
         align-items: center;
     }
-z
+
     .apresentacao{
         flex-direction: column;
     }
@@ -209,7 +213,7 @@ z
         gap: 0%;
         }
      .apresentacao__imagem__imagens{
-            width: 100%;
+            width: 70vw;
         }
     }
 
@@ -241,7 +245,7 @@ z
         }
 
          .apresentacao__imagem__imagens{
-            width: 100%;
+            width: 70vw;
         }
        
 
@@ -255,7 +259,7 @@ z
     
     .cabecalho__menu{
         justify-content: center;
-        flex-direction: column-reverse;
+        flex-direction: column;
         align-items: center;
         gap: 30PX;
     }
